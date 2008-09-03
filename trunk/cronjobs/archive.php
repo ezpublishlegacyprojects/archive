@@ -1,8 +1,8 @@
 <?php
 // Modified on: <Tue Aug 22 21:21:57 CEST 2006 ls@ez.no>
 //
-// SOFTWARE NAME: eZ publish
-// COPYRIGHT NOTICE: Copyright (C) 1999-2006 eZ systems AS
+// SOFTWARE NAME: Archive: eZ Publish cronjob extension
+// COPYRIGHT NOTICE: Copyright (C) 2008 Łukasz Serwatka
 // SOFTWARE LICENSE: GNU General Public License v2.0
 // NOTICE: >
 //  This program is free software; you can redistribute it and/or
